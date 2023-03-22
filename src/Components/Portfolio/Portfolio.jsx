@@ -34,7 +34,7 @@ const Portfolio = () => {
             <a href="https://github.com/Naomi183/Chrome-Dino-Game" target="_blank" rel="noreferrer" className="btn">
               Github
             </a>
-            <a href="chrome-dino-game-3knlfbum4-naomi183.vercel.app" target="_blank" rel="noreferrer" className="btn btn-primary">
+            <a href="chrome-dino-game-j2me-e5mfmcizq-naomi183.vercel.app" target="_blank" rel="noreferrer" className="btn btn-primary">
               Live Demo
             </a>
           </div>
@@ -48,7 +48,7 @@ const Portfolio = () => {
             <a href="https://github.com/Naomi183/Wordle-clone" target="_blank" rel="noreferrer" className="btn">
               Github
             </a>
-            <a href="wordle-clone-115h8xg22-naomi183.vercel.app" target="_blank" rel="noreferrer" className="btn btn-primary">
+            <a href="https://wordle-clone-dun-five.vercel.app/" target="_blank" rel="noreferrer" className="btn btn-primary">
               Live Demo
             </a>
           </div>
