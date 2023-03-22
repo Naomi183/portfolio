@@ -17,10 +17,10 @@ const Portfolio = () => {
           </div>
           <h3>Weather-app</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Naomi183/Weather-app" target="_blank" className="btn">
+            <a href="https://github.com/Naomi183/Weather-app" target="_blank" rel="noreferrer" className="btn">
               Github
             </a>
-            <a href="https://marvelous-empanada-c41f51.netlify.app/" target="_blank" className="btn btn-primary">
+            <a href="https://marvelous-empanada-c41f51.netlify.app/" target="_blank" rel="noreferrer" className="btn btn-primary">
               Live Demo
             </a>
           </div>
@@ -31,10 +31,10 @@ const Portfolio = () => {
           </div>
           <h3>Chrome Dino clone</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Naomi183/Chrome-Dino-Game" target="_blank" className="btn">
+            <a href="https://github.com/Naomi183/Chrome-Dino-Game" target="_blank" rel="noreferrer" className="btn">
               Github
             </a>
-            <a href="chrome-dino-game-3knlfbum4-naomi183.vercel.app" target="_blank" className="btn btn-primary">
+            <a href="chrome-dino-game-3knlfbum4-naomi183.vercel.app" target="_blank" rel="noreferrer" className="btn btn-primary">
               Live Demo
             </a>
           </div>
@@ -45,10 +45,10 @@ const Portfolio = () => {
           </div>
           <h3>Wordle Clone</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Naomi183/Wordle-clone" target="_blank" className="btn">
+            <a href="https://github.com/Naomi183/Wordle-clone" target="_blank" rel="noreferrer" className="btn">
               Github
             </a>
-            <a href="wordle-clone-115h8xg22-naomi183.vercel.app" target="_blank" className="btn btn-primary">
+            <a href="wordle-clone-115h8xg22-naomi183.vercel.app" target="_blank" rel="noreferrer" className="btn btn-primary">
               Live Demo
             </a>
           </div>
@@ -59,10 +59,10 @@ const Portfolio = () => {
           </div>
           <h3>Online Store</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Naomi183/third-semester-project" target="_blank" className="btn">
+            <a href="https://github.com/Naomi183/third-semester-project" target="_blank" rel="noreferrer" className="btn">
               Github
             </a>
-            <a href="https://third-semester-project-1oyf.vercel.app/" target="_blank" className="btn btn-primary">
+            <a href="https://third-semester-project-1oyf.vercel.app/" target="_blank" rel="noreferrer" className="btn btn-primary">
               Live Demo
             </a>
           </div>
