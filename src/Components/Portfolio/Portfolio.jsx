@@ -3,7 +3,9 @@ import "./Portfolio.css";
 import img1 from "../../Assets/portfolio1.jpg";
 import img2 from "../../Assets/portfolio2.jpg";
 import img3 from "../../Assets/portfolio3.jpg";
-import img4 from "../../Assets/portfolio4.jpg"
+import img4 from "../../Assets/portfolio4.jpg";
+import img5 from "../../Assets/portfolio5.jpg";
+
 
 
 const Portfolio = () => {
@@ -63,6 +65,20 @@ const Portfolio = () => {
               Github
             </a>
             <a href="https://third-semester-project-1oyf.vercel.app/" target="_blank" rel="noreferrer" className="btn btn-primary">
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={img5} alt="" />
+          </div>
+          <h3>Notes App</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/Naomi183/React-notes" target="_blank" rel="noreferrer" className="btn">
+              Github
+            </a>
+            <a href="https://react-notes-4caigvoa6-naomi183.vercel.app/" target="_blank" rel="noreferrer" className="btn btn-primary">
               Live Demo
             </a>
           </div>
